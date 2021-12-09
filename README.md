@@ -1,5 +1,4 @@
-## Oiii eu sou o Jean Fabio, Analista de BI e futuro Data Science
-
+### Olá! Eu sou o Jean Fabio 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeansilvaster)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUqGl4BeN7joX-47dI2l3Ew)
