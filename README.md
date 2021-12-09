@@ -6,7 +6,6 @@
 [![Twitch](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jeansilvaster)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/918292824900907048/918292825467133953)
 
-<div align="center">
   <a href="https://github.com/jeansilvaster">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansilvaster&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansilvaster&layout=compact&langs_count=7&theme=tokyonight"/>
