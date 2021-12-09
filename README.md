@@ -10,8 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansilvaster&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansilvaster&layout=compact&langs_count=7&theme=tokyonight"/>
   
-  ![Snake animation](https://github.com/jeansilvaster/jeansilvaster/blob/output/github-contribution-grid-snake.svg)
-</div>
+ </div>
 
  ## Tecnologias que eu uso no meu dia
   
@@ -24,7 +23,10 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> 
        </div><br/>
-  
+       
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da trasformação e visualização de dados.
   
