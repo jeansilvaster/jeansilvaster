@@ -24,9 +24,9 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> 
        </div><br/>
        
-  ![Snake animation](https://github.com/jeansilvaster/jeansilvaster/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+         ![Snake animation](https://github.com/jeansilvaster/jeansilvaster/blob/output/github-contribution-grid-snake.svg)
+         
+ </div>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da trasformação e visualização de dados.
   
