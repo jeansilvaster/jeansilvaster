@@ -29,7 +29,7 @@
    ![Snake animation](https://github.com/jeansilvaster/jeansilvaster/blob/output/github-contribution-grid-snake.svg)
    
  
-</div>
+
          
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da trasformação e visualização de dados.
