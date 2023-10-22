@@ -19,17 +19,30 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  </div><br/>
+       
 
-       </div><br/>
-       
-       
-       
-   ![Snake animation](https://github.com/jeansilvaster/jeansilvaster/blob/output/github-contribution-grid-snake.svg)
+   <a href="https://www.instagram.com/jeansilvaster/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jeansilvaster/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:jeansilvaster@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
+
+ <div align="center">
+
+  ![Snake animation](https://github.com/jeansilvaster/jeansilvaster/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
    
  
 
          
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da trasformação e visualização de dados.
-  
+
+<p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
+
   
