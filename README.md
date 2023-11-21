@@ -1,7 +1,7 @@
 # 💫 About Me:
 Oi 👋, eu sou Jean Fabio<br>Apaixonado por ciência e análise de dados no mundo digital e corporativo<br>
 Me pergunte sobre: SQL, Google Data Studio, Power BI, Excel e Python<br>Aprendendo Python para análise financeira.<br>
-Aqui você encontrará  trabalhos que desenvolvi e estou aprendendo, <br>ao longo da minha vida acadêmica e profissional, onde busco através<br> dos dados encontrar extrair o informações valiosas para a tomada de decisão.<br>Os Projetos iniciaram com análises de dados utilizando *Python(pandas,<br> numpy, yfinance, matplotlib, seaborn) e hoje vem tomando um rumo mais para<br> análise financeira!<br><br>*Observação: Os dados são de fontes públicas<br> e o objetivo dos trabalhos são testar e colocar <br>em prática o uso de algoritmos, ferramentas e técnicas.*<br><br>Aqui encontrará:<br>- Projetos de BI em Spark, Mongo DB, SQL/Mysql, Microsoft Power BI<br>- Projetos de analise de dados utilizando Python
+Aqui você encontrará  trabalhos que desenvolvi e estou aprendendo, <br>ao longo da minha vida acadêmica e profissional, onde busco através<br> dos dados encontrar extrair o informações valiosas para a tomada de decisão.<br>Os Projetos iniciaram com análises de dados utilizando *Python (pandas,<br> numpy, yfinance, matplotlib, seaborn) e hoje vem tomando um rumo mais para<br> análise financeira!<br><br>*Observação: Os dados são de fontes públicas<br> e o objetivo dos trabalhos são testar e colocar <br>em prática o uso de algoritmos, ferramentas e técnicas.*<br><br>Aqui encontrará:<br>- Projetos de BI em Spark, Mongo DB, SQL/Mysql, Microsoft Power BI<br>- Projetos de análise de dados utilizando Python
 
 
 ## 🌐 Socials:
